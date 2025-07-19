@@ -1,7 +1,6 @@
 # HR Analytics Dashboard – Power BI
 
-## Project Title
-**HR Analytics Dashboard Using Power BI**
+
 
 ## Objective
 To develop an interactive HR analytics dashboard using Power BI that helps analyze employee data and extract valuable insights. This includes tracking trends in headcount, gender diversity, age distribution, departmental strength, and more, aiding better HR decision-making.
