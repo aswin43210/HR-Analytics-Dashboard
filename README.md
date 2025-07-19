@@ -9,7 +9,7 @@ To develop an interactive HR analytics dashboard using Power BI that helps analy
 
 
 ## Dataset Used
-
+- <a href="https://github.com/aswin43210/HR-HC-Analysis-Dashboard/blob/main/Employee%20Data.xlsx">Dataset</a>
 
 
 ## Business Questions & KPIs
