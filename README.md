@@ -6,11 +6,8 @@
 ## Objective
 To develop an interactive HR analytics dashboard using Power BI that helps analyze employee data and extract valuable insights. This includes tracking trends in headcount, gender diversity, age distribution, departmental strength, and more, aiding better HR decision-making.
 
-
-
 ## Dataset Used
 - <a href="https://github.com/aswin43210/HR-HC-Analysis-Dashboard/blob/main/Employee%20Data.xlsx">Dataset</a>
-
 
 ## Business Questions & KPIs
 
@@ -29,11 +26,7 @@ To develop an interactive HR analytics dashboard using Power BI that helps analy
 - Age Group Distribution
 - Last Data Refresh Date
 
----
-
-## Dashboard Preview
-
-![HR Dashboard Preview](https://raw.githubusercontent.com/your-username/your-repo-name/main/screenshots/hr_dashboard_preview.png)
+-Dashboard Interaction <a href="https://github.com/aswin43210/HR-HC-Analysis-Dashboard/blob/main/HR%20Dashboard%20Overview%20img.png">View Dashboard</a>
 
 ## Process Followed
 
@@ -46,10 +39,10 @@ To develop an interactive HR analytics dashboard using Power BI that helps analy
 5. Implemented slicers for dynamic filtering (department, country, employee name).
 6. Added data refresh indicator and date filtering options.
 
----
+## Dashboard 
 
-## Dashboard Access <a href="  ">View Dashboard</a>
-
+<img width="586" height="328" alt="HR Dashboard Overview img" src="https://github.com/user-attachments/assets/aea8c77d-d770-42a2-81a7-6c2ef616cea1" />
+<img width="599" height="327" alt="HR Analysis Dashboard img" src="https://github.com/user-attachments/assets/c6a9d0ec-385e-4a06-b12f-4ec0a1f879c2" />
 
 
 
