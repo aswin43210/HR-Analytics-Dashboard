@@ -35,15 +35,6 @@ To develop an interactive HR analytics dashboard using Power BI that helps analy
 
 ![HR Dashboard Preview](https://raw.githubusercontent.com/your-username/your-repo-name/main/screenshots/hr_dashboard_preview.png)
 
-*(Replace the above link with your actual GitHub image URL — steps below)*
-
----
-
-## Files Included
-- `HR Analysis Dashboard Project.pbix` – The complete Power BI dashboard file
-
----
-
 ## Process Followed
 
 1. Collected and formatted HR data using Excel.
@@ -57,12 +48,10 @@ To develop an interactive HR analytics dashboard using Power BI that helps analy
 
 ---
 
-## Dashboard Access
+## Dashboard Access <a href="  ">View Dashboard</a>
 
-- **Power BI File Download:** Available in this repository.
-- **Online Version (Optional):** [Insert Power BI Service link if available]
 
----
+
 
 ## Conclusion
 
