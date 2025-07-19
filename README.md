@@ -26,7 +26,6 @@ To develop an interactive HR analytics dashboard using Power BI that helps analy
 - Age Group Distribution
 - Last Data Refresh Date
 
--Dashboard Interaction <a href="https://github.com/aswin43210/HR-HC-Analysis-Dashboard/blob/main/HR%20Dashboard%20Overview%20img.png">View Dashboard</a>
 
 ## Process Followed
 
